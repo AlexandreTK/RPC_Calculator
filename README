@@ -1,0 +1,4 @@
+This is a simple calculator using RPC (Remote Procedure Call).
+
+Usage:
+./executable <host ip> <operand 1> <operator> <operand 2>
